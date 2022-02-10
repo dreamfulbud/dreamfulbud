@@ -11,11 +11,13 @@
 <img src="https://img.shields.io/badge/Sass-f5f5f5?style=flat-square&logo=Sass&logoColor=CC6699" />
 <img src="https://img.shields.io/badge/JavaScript-f5f5f5?style=flat-square&logo=JavaScript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/jQuery-f5f5f5?style=flat-square&logo=jQuery&logoColor=0769AD" />
-  
+
+<!--
 #### +
 <img src="https://img.shields.io/badge/TypeScript-f5f5f5?style=flat-square&logo=TypeScript&logoColor=3178C6" />
 <img src="https://img.shields.io/badge/Tailwind CSS-f5f5f5?style=flat-square&logo=Tailwind CSS&logoColor=06B6D4" />
-  
+-->
+
 ---
   
 ### Designer
